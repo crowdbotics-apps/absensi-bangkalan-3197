@@ -1,0 +1,3 @@
+rootProject.name = 'absensi_bangkalan_3197'
+
+include ':app'

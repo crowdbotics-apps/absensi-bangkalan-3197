@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT absensi_bangkalan_3197.wsgi:application
